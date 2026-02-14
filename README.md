@@ -24,5 +24,6 @@ STEP 6: Use zscore of to remove outliers
     [vertopal.com_expriment1.pdf](https://github.com/user-attachments/files/25315441/vertopal.com_expriment1.pdf)
 >
 # Result
-          [vertopal.com_expriment1.pdf](https://github.com/user-attachments/files/25315442/vertopal.com_expriment1.pdf)
+Thus we have cleaned the data and removed the outliers by detection using IQR and Z-score
+method.
 >
