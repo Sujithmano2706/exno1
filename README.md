@@ -21,6 +21,8 @@ STEP 5: Remove outliers using IQR
 STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
-            <<include your coding and its corressponding output screen shots here>>
+    [vertopal.com_expriment1.pdf](https://github.com/user-attachments/files/25315441/vertopal.com_expriment1.pdf)
+>
 # Result
-          <<include your Result here>>
+          [vertopal.com_expriment1.pdf](https://github.com/user-attachments/files/25315442/vertopal.com_expriment1.pdf)
+>
